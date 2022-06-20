@@ -1,0 +1,3 @@
+const PORT = 2000;
+const CLOUD_NAME = "dtlcemzzb";
+const CLOUD_SECRET = "8qPMD6Du9QWZ8I-WejXBeKD0dm4";
